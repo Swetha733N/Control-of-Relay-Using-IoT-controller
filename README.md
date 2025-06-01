@@ -1,3 +1,5 @@
+### NAME: SWETHA N
+### DEPT: CSE(IOT)
 # Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
@@ -39,9 +41,26 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 ## PROGRAM:
 
+![Screenshot 2024-12-03 080256](https://github.com/user-attachments/assets/21c835ac-43d2-433c-b278-9dc24d168b2d)
+
+
 ## CIRCUIT DIAGRAM:
 
+
+![Screenshot 2024-12-03 080303](https://github.com/user-attachments/assets/cc4ab540-5877-45e4-b03b-4c41a37d8cab)
+
+
 ## OUTPUT:
+
+OFF:
+
+![Screenshot 2024-12-03 080310](https://github.com/user-attachments/assets/9c83d50d-60dc-4185-a69c-c629fdb9adec)
+
+ON:
+
+![Screenshot 2024-12-03 080318](https://github.com/user-attachments/assets/a2c08a9e-28e1-433b-ab7f-f94a5fa98bb7)
+
+
 
 ## RESULT:
 
